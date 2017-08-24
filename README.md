@@ -27,6 +27,7 @@ If you can help, please email me [here](mailto:alexkirwan29@gmail.com) - alexkir
 
 ## Relevant links
 
+* [Changelog]https://headwayapp.co/www-octv-net-changelog - Updated after every push
 * [Twitter](http://www.twitter.com) - follow for updates
 
 
