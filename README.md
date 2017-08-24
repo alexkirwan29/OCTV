@@ -27,8 +27,8 @@ If you can help, please email me [here](mailto:alexkirwan29@gmail.com) - alexkir
 
 ## Relevant links
 
+* [Git Book](https://alexkirwan29.gitbooks.io/octv/content/) - Detailed information about OCTV
 * [Change Log](https://headwayapp.co/www-octv-net-changelog) - Updated after every push
 * [Twitter](http://www.twitter.com) - follow for updates
-
 
 
