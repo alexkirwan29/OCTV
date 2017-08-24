@@ -1,3 +1,5 @@
+well, well, well, it looks as though you have stumbled accross my project.....
+
 # OCTV - Original Content Television
 
 Showcasing original content from amateur filmographers
@@ -21,7 +23,7 @@ If you have a special skill that you can donate to this project I am interested,
 • social media advertising
 • kickstarter
 ```
-If you can help, please email me [here](mailto:alexkirwan29@gmail.com)
+If you can help, please email me [here](mailto:alexkirwan29@gmail.com) - alexkirwan29@gmail for those who dont have an email client
 
 ## Relevant links
 
