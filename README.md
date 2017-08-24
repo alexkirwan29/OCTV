@@ -21,6 +21,7 @@ If you have a special skill that you can donate to this project I am interested,
 • social media advertising
 • kickstarter
 ```
+If you can help, please email me [here](mailto:alexkirwan29@gmail.com)
 
 ## Relevant links
 
